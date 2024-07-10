@@ -1,6 +1,6 @@
 <h1 align="center">Mas Citra Buana</h1>
 
-<h3 align="center">Ganteng, Soleh, dan Baik Hati. Siapa yang mau jadi pacarku?</h3>
+<h3 align="center"></h3>
 
 ###
 
