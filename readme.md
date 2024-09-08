@@ -1,6 +1,6 @@
-<h1 align="center">Mas Citra Buana</h1>
+<h1 align="center">Isa Citra Buana</h1>
 
-<h3 align="center"></h3>
+<h3 align="center">dunia ini hanya sementara</h3>
 
 ###
 
