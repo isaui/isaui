@@ -1,6 +1,6 @@
 <h1 align="center">Isa Citra Buana</h1>
 
-<h3 align="center">dunia ini hanya sementara</h3>
+<h3 align="center">Can anyone provide me with a decent challenge?</h3>
 
 ###
 
